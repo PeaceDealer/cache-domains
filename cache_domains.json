@@ -51,6 +51,11 @@
 			"domain_files": ["nintendo.txt"]
 		},
 		{
+			"name": "patchkit",
+			"description": "CDN for PatchKit",
+			"domain_files": ["patchkit.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
